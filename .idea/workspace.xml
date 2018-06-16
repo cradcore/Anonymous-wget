@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72a01a75-33b1-4fc6-a212-38eb756442df" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="awget.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awget/awget.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <element signature="e#15#90#0" expanded="true" />
+                <element signature="e#100#131#0" />
+                <element signature="e#566#573#0" />
+                <element signature="e#805#807#0" />
+                <element signature="n#!!block;n#printInfo#0" />
+                <element signature="n#!!block;n#getSSNum#0" />
+                <element signature="n#!!block;n#checkArgs#0" />
+                <element signature="n#!!block;n#openFile#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ss.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ss/ss.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#149#164#0" />
+                <element signature="e#1050#1125#0" />
+                <element signature="e#1211#1286#0" />
+                <element signature="e#1932#1934#0" />
+                <element signature="n#!!block;n#getSSNum#0" />
+                <element signature="e#406#408#0" />
+                <element signature="e#542#549#0" />
+                <element signature="e#933#1005#0" />
+                <element signature="e#3184#3186#0" />
+                <element signature="e#3252#3327#0" />
+                <element signature="e#4125#4203#0" />
+                <element signature="e#5330#5337#0" />
+                <element signature="e#5136#5138#0" />
+                <element signature="n#!!block;n#getIP#0" />
+                <element signature="n#!!block;n#checkArgsSS#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chaingang.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awget/chaingang.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chainlis</find>
+      <find>req</find>
+      <find>Threa</find>
+      <find>thread:</find>
+      <find>URL:</find>
+      <find>fileRecieved</find>
+      <find>File Send</find>
+      <find>sleep</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="C:/Go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../chaingang.txt" />
+        <option value="$PROJECT_DIR$/awget.go" />
+        <option value="$PROJECT_DIR$/ss.go" />
+        <option value="$PROJECT_DIR$/chaingang.txt" />
+        <option value="$PROJECT_DIR$/awget/chaingang.txt" />
+        <option value="$PROJECT_DIR$/awget/awget.go" />
+        <option value="$PROJECT_DIR$/ss/ss.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="1448" />
+    <option name="height" value="1402" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="P3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
+              <item name="awget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="P3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.10.1" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Corey\go\src\P3\ss" />
+      <recent name="C:\Users\Corey\go\src\P3" />
+      <recent name="C:\Users\Corey\go\src\P3\awget" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build awget.go">
+    <configuration name="go build awget.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <parameters value="www.cs.colostate.edu/~info/cuda-faq.html" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/awget/awget.go" />
+      <package value="P3" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build ss.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ss.go" />
+      <package value="P3" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build ss.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <parameters value="-p 2100" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ss/ss.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build awget.go" />
+      <item itemvalue="Go Build.go build ss.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awget.go" />
+        <item itemvalue="Go Build.go build ss.go" />
+        <item itemvalue="Go Build.go build ss.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1263" height="1223" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1381166" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50044763" side_tool="true" weight="0.32944345" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49955237" weight="0.3318264" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994614" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>len(ss)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/awget/awget.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#15#90#0" expanded="true" />
+            <element signature="e#100#131#0" />
+            <element signature="e#566#573#0" />
+            <element signature="e#805#807#0" />
+            <element signature="n#!!block;n#printInfo#0" />
+            <element signature="n#!!block;n#getSSNum#0" />
+            <element signature="n#!!block;n#checkArgs#0" />
+            <element signature="n#!!block;n#openFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss/ss.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#149#164#0" />
+            <element signature="e#1050#1125#0" />
+            <element signature="e#1211#1286#0" />
+            <element signature="e#1932#1934#0" />
+            <element signature="n#!!block;n#getSSNum#0" />
+            <element signature="e#406#408#0" />
+            <element signature="e#542#549#0" />
+            <element signature="e#933#1005#0" />
+            <element signature="e#3184#3186#0" />
+            <element signature="e#3252#3327#0" />
+            <element signature="e#4125#4203#0" />
+            <element signature="e#5330#5337#0" />
+            <element signature="e#5136#5138#0" />
+            <element signature="n#!!block;n#getIP#0" />
+            <element signature="n#!!block;n#checkArgsSS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaingang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awget/awget.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <element signature="e#15#90#0" expanded="true" />
+            <element signature="e#100#131#0" />
+            <element signature="e#566#573#0" />
+            <element signature="e#805#807#0" />
+            <element signature="n#!!block;n#printInfo#0" />
+            <element signature="n#!!block;n#getSSNum#0" />
+            <element signature="n#!!block;n#checkArgs#0" />
+            <element signature="n#!!block;n#openFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaingang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awget/awget.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#15#90#0" expanded="true" />
+            <element signature="e#100#131#0" />
+            <element signature="e#566#573#0" />
+            <element signature="e#805#807#0" />
+            <element signature="n#!!block;n#printInfo#0" />
+            <element signature="n#!!block;n#getSSNum#0" />
+            <element signature="n#!!block;n#checkArgs#0" />
+            <element signature="n#!!block;n#openFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chaingang.txt" />
+    <entry file="file://$PROJECT_DIR$/chaingang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awget/chaingang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awget/awget.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#15#90#0" expanded="true" />
+            <element signature="e#100#131#0" />
+            <element signature="e#566#573#0" />
+            <element signature="e#805#807#0" />
+            <element signature="n#!!block;n#printInfo#0" />
+            <element signature="n#!!block;n#getSSNum#0" />
+            <element signature="n#!!block;n#checkArgs#0" />
+            <element signature="n#!!block;n#openFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss/ss.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#149#164#0" />
+            <element signature="e#1050#1125#0" />
+            <element signature="e#1211#1286#0" />
+            <element signature="e#1932#1934#0" />
+            <element signature="n#!!block;n#getSSNum#0" />
+            <element signature="e#406#408#0" />
+            <element signature="e#542#549#0" />
+            <element signature="e#933#1005#0" />
+            <element signature="e#3184#3186#0" />
+            <element signature="e#3252#3327#0" />
+            <element signature="e#4125#4203#0" />
+            <element signature="e#5330#5337#0" />
+            <element signature="e#5136#5138#0" />
+            <element signature="n#!!block;n#getIP#0" />
+            <element signature="n#!!block;n#checkArgsSS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
